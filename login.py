@@ -37,6 +37,7 @@ def comenzar_juego():
 root = tk.Tk()
 root.title('Login del juego')
 root.geometry('300x250')
+root.config(bg="red")
 
 # Widgets
 # Texto
